@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://csvtojson.othrys.be/sitemap.xml

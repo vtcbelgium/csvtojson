@@ -1,0 +1,17 @@
+{
+  "blueprint": {
+    "status": "COMPLETED",
+    "registered": false,
+    "blueprint_path": "C:\\OTHRYS\\repos\\OTHRYS\\blueprints\\sites\\csvtojson.json",
+    "siteId": "csvtojson"
+  },
+  "scaffold": {
+    "status": "COMPLETED",
+    "repo_dir": "C:\\OTHRYS\\repos\\csvtojson",
+    "files_count": 17
+  },
+  "cognitive_synthesize": {
+    "status": "ERROR",
+    "error": "SYNTHESIS_FAILED_CLOSED: Cognitive self-healing loop exhausted 4 attempts. Last error:\n)\u001b[33m.\u001b[39m\u001b[34mtoEqual\u001b[39m([\u001b[32m'1'\u001b[39m\u001b[33m,\u001b[39m \u001b[32m'2'\u001b[39m\u001b[33m,\u001b[39m \u001b[32m'3'\u001b[39m])\u001b[33m;\u001b[39m\n    \u001b[90m142| \u001b[39m      \u001b[34mexpect\u001b[39m(result\u001b[33m.\u001b[39mdata)\u001b[33m.\u001b[39m\u001b[34mtoEqual\u001b[39m([\n    \u001b[90m   | \u001b[39m                          \u001b[31m^\u001b[39m\n    \u001b[90m143| \u001b[39m        { \u001b[32m'1'\u001b[39m\u001b[33m:\u001b[39m \u001b[34m4\u001b[39m\u001b[33m,\u001b[39m \u001b[32m'2'\u001b[39m\u001b[33m:\u001b[39m \u001b[34m5\u001b[39m\u001b[33m,\u001b[39m \u001b[32m'3'\u001b[39m\u001b[33m:\u001b[39m \u001b[34m6\u001b[39m }\n    \u001b[90m144| \u001b[39m      ])\u001b[33m;\u001b[39m\n\n\u001b[31m\u001b[2m\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af\u23af[3/3]\u23af\u001b[22m\u001b[39m\n\n\nTypeScript compiler error:\nsrc/main.ts(119,2): error TS1435: Unknown keyword or identifier. Did you mean 'function'?\nsrc/main.ts(119,24): error TS1005: ',' expected.\nsrc/main.ts(119,33): error TS1005: ';' expected.\nsrc/main.ts(119,35): error TS1434: Unexpected keyword or identifier.\n"
+  }
+}
