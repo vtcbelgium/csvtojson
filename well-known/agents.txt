@@ -1,0 +1,7 @@
+Name: CSV to JSON
+URL: https://csvtojson.othrys.be/
+Description: Convert CSV data to JSON format entirely in the browser with no server-side processing.
+LLMs-Txt: https://csvtojson.othrys.be/llms.txt
+Sitemap: https://csvtojson.othrys.be/sitemap.xml
+Protocol: public-read-only
+Privacy: zero-tracking-cookies, local-browser-execution, zero-cloud-uploads
