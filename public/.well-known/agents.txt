@@ -1,0 +1,7 @@
+Name: CSV to JSON
+URL: https://csvtojson.othrys.be/
+Description: Fast, private client-side CSV and TSV to JSON converter with table preview, running entirely in your browser with zero server uploads.
+LLMs-Txt: https://csvtojson.othrys.be/llms.txt
+Sitemap: https://csvtojson.othrys.be/sitemap.xml
+Protocol: public-read-only
+Privacy: zero-tracking-cookies, local-browser-execution, zero-cloud-uploads
